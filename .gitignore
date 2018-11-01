@@ -5,4 +5,4 @@
 *.scss.map
 
 # modules
-node_modules/*
+**/node_modules/*
